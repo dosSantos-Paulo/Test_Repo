@@ -13,5 +13,13 @@ class MainActivity : AppCompatActivity() {
         if (init == 1) {
             Toast.makeText(this, "True", Toast.LENGTH_LONG).show()
         }
+        val init2 = 1
+        if (init2 == 1) {
+            Toast.makeText(this, "True", Toast.LENGTH_LONG).show()
+        }
+        val init3 = 1
+        if (init3 == 1) {
+            Toast.makeText(this, "True", Toast.LENGTH_LONG).show()
+        }
     }
 }
